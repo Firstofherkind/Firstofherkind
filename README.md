@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning Python Programming Language.
-👯 I’m looking to collaborate on any project to help become a better developer and as well build my portfolio.
+👯 I’m looking to collaborate on any project to help me become a better developer and as well build my portfolio.
 📫 How to reach me: egwujennifer@yahoo.com. send a mail!
 
 <!--
